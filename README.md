@@ -17,10 +17,6 @@
 
 </p>
 
-## Table of Contents
-
-
-- [Features](#features)
 
 
 
@@ -47,6 +43,3 @@ A few of the things you can do with SunSniper:
 - Type ```py main.py```
 
 
-## Acknowledgments
-
-Thanks to sunpump and pumpfun for supporting this project.

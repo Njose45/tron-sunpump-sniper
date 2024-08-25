@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://t.me/+fvyEKztwDrM3OThi">
     <img alt="Download" title="App Store" src="https://i.imgur.com/HlCGF71.png" width="140">
   </a>
 
